@@ -1,0 +1,86 @@
+h1 {
+	font-family: Roboto;
+	font-size: 48px;
+	color: #e8e8e8;
+	width: 10em;
+	background-color: #474747;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 15px;
+	text-align: center;
+	padding: 5px;
+}
+li {
+	font-family: Roboto;
+	color: #e8e8e8;
+	border: 3px double #b20000;
+	width: 20%;
+	height: 20%;
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 5px;
+	float: left;
+	margin: 25px;
+	text-align: right;
+	min-height: 5em;
+	
+}
+ul {
+	list-style-type: none;
+}
+body {    
+    margin: auto;
+	position: relative;
+}
+html {
+	background-color: #2d2d2d;
+}
+#English { 
+background-image: url("http://2.bp.blogspot.com/_tsK3O2GGwms/TKoNYtQTYPI/AAAAAAAAIII/qDS94kX9mlQ/s1600/UK+Flag.jpg");
+width: 102,4px;
+height: 61,4px;
+background-repeat: no-repeat;
+background-size: contain;
+}
+#Deutsch {
+	background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png");
+	width: 102,4px;
+height: 61,4px;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+#Francais {
+	background-image: url("https://www.onlinestores.com/flagdetective/images/download/france-hi.jpg");
+	width: 102,4px;
+height: 61,4px;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+#Nederlands {
+		background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/2000px-Flag_of_the_Netherlands.svg.png");
+	width: 102,4px;
+height: 61,4px;
+background-repeat: no-repeat;
+background-size: contain;
+}
+#Espanol {
+		background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png");
+	width: 102,4px;
+height: 61,4px;
+background-repeat: no-repeat;
+background-size: contain;
+}
+#Chinese {
+		background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People's_Republic_of_China.svg/2000px-Flag_of_the_People's_Republic_of_China.svg.png");
+	width: 102,4px;
+height: 61,4px;
+background-repeat: no-repeat;
+background-size: contain;
+}
+#Languages { 
+margin-left: auto;
+margin-right: auto;
+	height: 100%;
+}
